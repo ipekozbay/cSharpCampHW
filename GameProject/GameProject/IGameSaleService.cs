@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GameProject
 {
-    internal class Validation
+    internal class IGameSaleService
     {
+        void Sale(Gamer gamer,Game game,Campaign campaign);
     }
 }

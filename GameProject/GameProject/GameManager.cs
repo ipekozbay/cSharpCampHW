@@ -6,18 +6,21 @@ using System.Threading.Tasks;
 
 namespace GameProject
 {
-    internal class GameManager : IGamerService
+    internal class GameManager : IGameService
     {
         public void Add()
         {
-            Console.WriteLine("game added");        }
+            Console.WriteLine("game added");        
+        }
 
         public void Delete()
         {
-            Console.WriteLine("game deleted");        }
+            Console.WriteLine("game deleted");        
+        }
 
         public void Update()
         {
-            Console.WriteLine("game updated");        }
+            Console.WriteLine("game updated");        
+        }
     }
 }

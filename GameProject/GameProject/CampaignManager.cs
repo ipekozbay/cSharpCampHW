@@ -8,17 +8,17 @@ namespace GameProject
 {
     internal class CampaignManager : ICampaignService
     {
-        public void AddCampaign()
+        public void AddCampaign(Campaign campaign)
         {
             Console.WriteLine("new campaign added");
         }
 
-        public void DeleteCampaign()
+        public void DeleteCampaign(Campaign campaign)
         {
             Console.WriteLine("campaign deleted");
         }
 
-        public void UpdateCampaign()
+        public void UpdateCampaign(Campaign campaign)
         {
             Console.WriteLine("campaign updated");
         }

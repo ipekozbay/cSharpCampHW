@@ -8,17 +8,17 @@ namespace GameProject
 {
     internal class GamerManager
     {
-        public void Add()
+        public void Add(Gamer gamer)
         {
             Console.WriteLine("gamer added");
         }
 
-        public void Delete()
+        public void Delete(Gamer gamer)
         {
             Console.WriteLine("gamer deleted");
         }
 
-        public void Update()
+        public void Update(Gamer gamer)
         {
             Console.WriteLine("gamer updated ");
         }

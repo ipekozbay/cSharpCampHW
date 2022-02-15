@@ -8,9 +8,9 @@ namespace GameProject
 {
     internal interface ICampaignService
     {
-        void AddCampaign();
-        void DeleteCampaign();
-        void UpdateCampaign();
+        void AddCampaign(Campaign campaign);
+        void DeleteCampaign(Campaign campaign);
+        void UpdateCampaign(Campaign campaign);
 
     }
 }
