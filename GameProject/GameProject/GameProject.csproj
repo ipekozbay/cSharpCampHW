@@ -52,8 +52,8 @@
     <Compile Include="GameSale.cs" />
     <Compile Include="GameSaleManager.cs" />
     <Compile Include="ICampaignService.cs" />
-    <Compile Include="IGamerService.cs" />
     <Compile Include="IGameSaleService.cs" />
+    <Compile Include="IGamerService.cs" />
     <Compile Include="IGameService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

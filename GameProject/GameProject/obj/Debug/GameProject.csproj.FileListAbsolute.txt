@@ -1,0 +1,8 @@
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\obj\Debug\GameProject.csproj.AssemblyReference.cache
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\obj\Debug\GameProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\bin\Debug\GameProject.exe.config
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\bin\Debug\GameProject.exe
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\bin\Debug\GameProject.pdb
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\obj\Debug\GameProject.exe
+C:\Users\ozbay\Desktop\csharphomework\GameProject\GameProject\obj\Debug\GameProject.pdb

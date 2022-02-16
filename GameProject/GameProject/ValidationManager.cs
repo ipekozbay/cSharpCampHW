@@ -8,9 +8,13 @@ namespace GameProject
 {
     internal class ValidationManager
     {
-        public bool Validate()
+        public bool Validate(Gamer gamer)
         {
-
+            if (gamer == null)
+            {
+                Console.WriteLine("no gamer ");
+            }
+            return true;
         }
     }
 }
